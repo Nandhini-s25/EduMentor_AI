@@ -1,1 +1,1 @@
-Live App URL: [TO_BE_ADDED_AFTER_VERCEL_DEPLOYMENT]
+Live App URL: https://edumentor-ai-appl.vercel.app/

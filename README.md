@@ -351,3 +351,7 @@ VITE_SUPABASE_ANON_KEY=
 ## Final Goal
 
 EduMentor AI is designed to help students learn more effectively by converting study materials into interactive assessments and personalized study plans through an agent-based workflow. The platform demonstrates practical Agent-Oriented AI concepts using a Question Generation Agent, Evaluation Agent, and Study Planner Agent working together to support learning and performance improvement.
+
+## Deployment Link : https://edumentor-ai-appl.vercel.app/
+
+github link : https://github.com/Nandhini-s25/EduMentor_AI
